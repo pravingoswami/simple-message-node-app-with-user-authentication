@@ -1,0 +1,15 @@
+assignments
+
+1) allow user to login from the login email id and phone number
+2) create model called as booking  - (titles, start sate, edn date) -> whenever we doing the booking the end date is always greater then or equal to start date then and then we have to do booking 
+3) inside the ticket master customer, employee email validation
+4) for employees and customer should be number for the mobile numbers (only 10)
+
+
+
+1) whenever user login count login count and the ip address
+2) 
+
+
+
+
